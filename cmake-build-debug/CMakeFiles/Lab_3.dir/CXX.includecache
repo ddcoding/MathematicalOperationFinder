@@ -1,0 +1,90 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Karol/CLionProjects/Lab4 actual/CInterface.cpp
+iostream
+-
+string
+-
+ctime
+-
+CInterface.h
+C:/Users/Karol/CLionProjects/Lab4 actual/CInterface.h
+
+C:/Users/Karol/CLionProjects/Lab4 actual/CInterface.h
+CTree.h
+C:/Users/Karol/CLionProjects/Lab4 actual/CTree.h
+vector
+-
+../Lab4 actual/GeneticTree.h
+C:/Users/Karol/CLionProjects/Lab4 actual/GeneticTree.h
+
+C:/Users/Karol/CLionProjects/Lab4 actual/CNode.cpp
+CNode.h
+C:/Users/Karol/CLionProjects/Lab4 actual/CNode.h
+
+C:/Users/Karol/CLionProjects/Lab4 actual/CNode.h
+iostream
+-
+
+C:/Users/Karol/CLionProjects/Lab4 actual/CTree.cpp
+CTree.h
+C:/Users/Karol/CLionProjects/Lab4 actual/CTree.h
+cmath
+-
+queue
+-
+algorithm
+-
+
+C:/Users/Karol/CLionProjects/Lab4 actual/CTree.h
+iostream
+-
+vector
+-
+CNode.h
+C:/Users/Karol/CLionProjects/Lab4 actual/CNode.h
+utility
+-
+
+C:/Users/Karol/CLionProjects/Lab4 actual/GeneticTree.cpp
+GeneticTree.h
+C:/Users/Karol/CLionProjects/Lab4 actual/GeneticTree.h
+iostream
+-
+CTree.h
+C:/Users/Karol/CLionProjects/Lab4 actual/CTree.h
+ctime
+-
+queue
+-
+cstdlib
+-
+vector
+-
+fstream
+-
+cmath
+-
+limits
+-
+
+C:/Users/Karol/CLionProjects/Lab4 actual/GeneticTree.h
+CTree.h
+C:/Users/Karol/CLionProjects/Lab4 actual/CTree.h
+
+C:/Users/Karol/CLionProjects/Lab4 actual/main.cpp
+iostream
+-
+ctime
+-
+CInterface.h
+C:/Users/Karol/CLionProjects/Lab4 actual/CInterface.h
+../Lab4 actual/GeneticTree.h
+C:/Users/Karol/CLionProjects/Lab4 actual/GeneticTree.h
+
